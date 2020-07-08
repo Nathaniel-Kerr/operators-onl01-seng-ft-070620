@@ -1,6 +1,6 @@
 require 'pry'
 def not_safe?(speed)
-  (speed)  ? "unsafe" : "safe"
+  speed <40 || >60 ? "unsafe" : "safe"
     
 end
 
