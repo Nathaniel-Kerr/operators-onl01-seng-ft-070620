@@ -4,13 +4,8 @@ def unsafe(speed)
     
   else
     safe
-    
-    
-  else 
      
-  
-
-end 
+  end 
 end
 
 
